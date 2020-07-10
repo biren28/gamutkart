@@ -1,4 +1,4 @@
-job('paymentbank-test') {
+job('paymentbank-biru') {
     scm {
         git('https://github.com/biren28/gamutkart.git')
     }
